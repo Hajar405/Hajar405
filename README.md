@@ -53,6 +53,6 @@ Participation au développement d'une plateforme de veille technologique, intég
 
 ## Contact
 
-- **LinkedIn :** [Ajouter le lien de mon profil LinkedIn](https://www.linkedin.com/)
+- **LinkedIn :** (https://www.linkedin.com/in/hajar-ait-idder-90a4232a4/?isSelfProfile=true)
 - **E-mail :** hajaraitidder@gmail.com
 - **Localisation :** Marrakech, Maroc
