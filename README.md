@@ -5,7 +5,7 @@
 
 Étudiante en troisième année du cycle ingénieur en Génie Informatique à l'ENSA Marrakech, au Maroc.
 
-Je m'intéresse au développement de solutions intelligentes, à la conception de modèles de Machine Learning et au traitement des données à grande échelle.
+Je m'intéresse au développement de solutions intelligentes, à la conception de modèles de Machine Learning et au traitement des données.
 
 **À la recherche d'un stage PFE de 4 à 6 mois à partir de février 2027.**
 
